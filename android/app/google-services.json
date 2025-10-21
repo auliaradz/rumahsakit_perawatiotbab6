@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258233061657",
+    "project_id": "rumahsakitbab6",
+    "storage_bucket": "rumahsakitbab6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258233061657:android:5d3d42b09ec5c8ab8db588",
+        "android_client_info": {
+          "package_name": "com.example.nurse_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5sYkNOrActBbWkvpWHq7GzFT-e4RnaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258233061657:android:c89b8fa26c742bf08db588",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5sYkNOrActBbWkvpWHq7GzFT-e4RnaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
