@@ -1,0 +1,2 @@
+1. widget langsung mengubah id pasien menjadi "Pasien n" dan tidak usah menampilkan id pasien 
+2. App bar di perbesar dan ubah judul "Aplikasi monitoring pasien" Menjadi "Nurse app" tambahkan ikon rumah sakit disebelah teks dan ubah warna teks icon menjadi putih dan usematerial3 true
